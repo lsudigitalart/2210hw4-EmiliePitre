@@ -1,4 +1,4 @@
-// Emilie Pitre ©2016 hw3
+// Emilie Pitre ©2016
 
 //Event Horizon
 //Inspired by fl0w's gradual-consumption-based gameplay.
