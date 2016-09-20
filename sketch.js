@@ -19,6 +19,7 @@ function setup() {
   createCanvas(900, 600);
   textFont("Century Gothic");
   ellipseMode(RADIUS);
+  noCursor();
 }
 
 function draw() {
